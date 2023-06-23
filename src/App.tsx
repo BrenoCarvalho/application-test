@@ -175,7 +175,7 @@ function App() {
             gap="5"
           >
             <Flex
-              w="20%"
+              w={["80%", "50%", "20%", "20%"]}
               h="auto"
               direction="column"
               border="1px"
