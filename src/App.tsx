@@ -6,6 +6,7 @@ import {
   Fade,
   Flex,
   Input,
+  Link,
   Tab,
   TabList,
   TabPanel,
@@ -162,6 +163,9 @@ function App() {
             <Text color="#f1f1f1" mt="30px">
               version 0.5.0
             </Text>
+            <Link href="app://myapp" color="#fff">
+              Hello
+            </Link>
           </Flex>
         </TabPanel>
         <TabPanel p="0">
