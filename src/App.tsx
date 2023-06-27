@@ -163,8 +163,8 @@ function App() {
             <Text color="#f1f1f1" mt="30px">
               version 0.5.0
             </Text>
-            <Link href="app://myapp" color="#fff">
-              Hello
+            <Link href="https://youtube.com" color="#fff">
+              YouTube
             </Link>
           </Flex>
         </TabPanel>
